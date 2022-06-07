@@ -1,0 +1,38 @@
+.text-header {
+  color: #181825;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  width: 848px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.text-infor {
+  color: #181825;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  width: 846px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.text-editor {
+  height: 280px;
+  outline-width: 0;
+  border-radius: 6px;
+  border: solid 1px rgba(104,105,105,.3);
+  resize: none;
+  padding: 5px 10px;
+  outline-width: 0;
+  text-align: left;
+}
+.btn-download button {
+  background-color: #F5F6FF;
+  border-radius: 8px;
+  width: 848px;
+  height: 72px;
+  border: unset;
+}
